@@ -1,1 +1,5 @@
 # WebMap
+
+```
+import folium
+```
